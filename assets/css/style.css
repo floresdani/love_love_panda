@@ -1,0 +1,42 @@
+body {
+  background-color: #F58F67 ;
+}
+
+.container-fluid {
+  background-color: #F58F67;
+  text-align: right;
+  
+}
+
+.superior {
+  color: white;
+  margin-bottom: 0%;
+}
+
+.txt {
+  color: white;
+  text-align: center;
+}
+
+.text_uno {
+  color: white;
+  padding: 10% 10%;
+  background-color: #ABE189;
+  
+}
+
+.pictures {
+  background-color: #ABE189;
+  color: white;
+ 
+}
+
+.texto {
+  background-color: #F58F67;
+  width: 50%;
+  
+}
+
+p {
+  text-align: center;
+}
